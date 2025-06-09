@@ -1,0 +1,1 @@
+In this task I learnt to create paragraphs, headings, bold text, italicized text, HTML comments as well as the relationships between nested elements
