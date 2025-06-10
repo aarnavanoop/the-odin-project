@@ -1,0 +1,1 @@
+In this topic I covered lists and unordered lists, creating a page with different lists such as shopping lists, video games etc.
